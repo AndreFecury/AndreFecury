@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="AquAlerta">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E5A73"/><stop offset="1" stop-color="#3FB6D9"/></linearGradient></defs>
+<rect x="1" y="1" width="398" height="248" rx="18" fill="#FFFFFF" stroke="#D5DEE2"/>
+<path d="M1 19 A18 18 0 0 1 19 1 H381 A18 18 0 0 1 399 19 V96 H1 Z" fill="url(#g)"/>
+<g transform="translate(350 48)" opacity=".95"><path fill="#fff" d="M0 -30 C 14 -10, 22 2, 22 12 A 22 22 0 0 1 -22 12 C -22 2, -14 -10, 0 -30 Z"/></g>
+<text x="28" y="62" fill="#FFFFFF" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="700">AquAlerta</text>
+<text x="28" y="134" fill="#33464D" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5">Avisa moradores de Manaus sobre</text>
+<text x="28" y="158" fill="#33464D" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5">risco de enchente, em tempo real.</text>
+<rect x="28" y="196" width="81" height="28" rx="14" fill="#0E5A73" fill-opacity=".12"/><text x="68.5" y="215" text-anchor="middle" fill="#0E5A73" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Flutter</text><rect x="117" y="196" width="89" height="28" rx="14" fill="#0E5A73" fill-opacity=".12"/><text x="161.5" y="215" text-anchor="middle" fill="#0E5A73" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Supabase</text><rect x="214" y="196" width="65" height="28" rx="14" fill="#0E5A73" fill-opacity=".12"/><text x="246.5" y="215" text-anchor="middle" fill="#0E5A73" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Mapas</text>
+</svg>

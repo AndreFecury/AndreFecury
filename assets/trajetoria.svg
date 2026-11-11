@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Trajetória"><rect width="1200" height="230" rx="18" fill="#FFFFFF" stroke="#D5DEE2"/>
+<path d="M40 112 C 200 92, 320 132, 480 112 S 760 92, 920 112 S 1100 132, 1160 112" stroke="#2A1C14" stroke-width="10" fill="none" stroke-linecap="round"/>
+<path d="M40 122 C 200 102, 320 142, 480 122 S 760 102, 920 122 S 1100 142, 1160 122" stroke="#D9A464" stroke-width="10" fill="none" stroke-linecap="round"/><circle cx="130" cy="117" r="10" fill="#FFFFFF" stroke="#10242B" stroke-width="3"/>
+<text x="130" y="48" text-anchor="middle" fill="#B7793A" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600">fev 2025</text>
+<text x="130" y="71" text-anchor="middle" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Entrei em</text>
+<text x="130" y="93" text-anchor="middle" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16">Ciência da Computação</text><circle cx="318" cy="117" r="10" fill="#FFFFFF" stroke="#10242B" stroke-width="3"/>
+<text x="318" y="168" text-anchor="middle" fill="#B7793A" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600">dez 2025</text>
+<text x="318" y="191" text-anchor="middle" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Primeiro projeto</text>
+<text x="318" y="211" text-anchor="middle" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16">publicado: AES</text><circle cx="506" cy="117" r="10" fill="#FFFFFF" stroke="#10242B" stroke-width="3"/>
+<text x="506" y="48" text-anchor="middle" fill="#B7793A" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600">mar 2026</text>
+<text x="506" y="71" text-anchor="middle" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Cubo mágico 3D</text>
+<text x="506" y="93" text-anchor="middle" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16">e jogo na Unity</text><circle cx="694" cy="117" r="10" fill="#FFFFFF" stroke="#10242B" stroke-width="3"/>
+<text x="694" y="168" text-anchor="middle" fill="#B7793A" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600">mai 2026</text>
+<text x="694" y="191" text-anchor="middle" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">AquAlerta</text>
+<text x="694" y="211" text-anchor="middle" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16">app de enchentes</text><circle cx="882" cy="117" r="13" fill="#1D6F86" stroke="#1D6F86" stroke-width="3"/>
+<text x="882" y="48" text-anchor="middle" fill="#B7793A" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600">jun 2026</text>
+<text x="882" y="71" text-anchor="middle" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Estágio no Sidia</text>
+<text x="882" y="93" text-anchor="middle" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16">(Samsung)</text><circle cx="1070" cy="117" r="10" fill="#FFFFFF" stroke="#10242B" stroke-width="3"/>
+<text x="1070" y="168" text-anchor="middle" fill="#B7793A" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600">2026</text>
+<text x="1070" y="191" text-anchor="middle" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700">BookMind AI</text>
+<text x="1070" y="211" text-anchor="middle" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16">em criação</text></svg>

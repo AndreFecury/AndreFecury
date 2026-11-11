@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Resumo rápido"><g transform="translate(0 0)">
+<rect x="6" y="6" width="288" height="128" rx="16" fill="#FFFFFF" stroke="#D5DEE2"/>
+<rect x="6" y="6" width="6" height="128" rx="3" fill="#1D6F86"/>
+<text x="30" y="42" fill="#4F6670" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">HOJE</text>
+<text x="30" y="78" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Estagiário de QA e Testes</text>
+<text x="30" y="106" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Sidia · Samsung, desde jun/2026</text>
+</g><g transform="translate(300 0)">
+<rect x="6" y="6" width="288" height="128" rx="16" fill="#FFFFFF" stroke="#D5DEE2"/>
+<rect x="6" y="6" width="6" height="128" rx="3" fill="#B7793A"/>
+<text x="30" y="42" fill="#4F6670" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">FORMAÇÃO</text>
+<text x="30" y="78" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Ciência da Computação</text>
+<text x="30" y="106" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">UNIP · 2025 a 2028</text>
+</g><g transform="translate(600 0)">
+<rect x="6" y="6" width="288" height="128" rx="16" fill="#FFFFFF" stroke="#D5DEE2"/>
+<rect x="6" y="6" width="6" height="128" rx="3" fill="#1D6F86"/>
+<text x="30" y="42" fill="#4F6670" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">ONDE</text>
+<text x="30" y="78" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Manaus, Amazonas</text>
+<text x="30" y="106" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Presencial ou remoto</text>
+</g><g transform="translate(900 0)">
+<rect x="6" y="6" width="288" height="128" rx="16" fill="#FFFFFF" stroke="#D5DEE2"/>
+<rect x="6" y="6" width="6" height="128" rx="3" fill="#B7793A"/>
+<text x="30" y="42" fill="#4F6670" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">QUERO CRESCER EM</text>
+<text x="30" y="78" fill="#10242B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">QA, Android, IA e P&amp;D</text>
+<text x="30" y="106" fill="#4F6670" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17">Engenharia de software</text>
+</g></svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="Cubo mágico 3D">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F6F8B"/><stop offset="1" stop-color="#2FA3C4"/></linearGradient></defs>
+<rect x="1" y="1" width="398" height="248" rx="18" fill="#FFFFFF" stroke="#D5DEE2"/>
+<path d="M1 19 A18 18 0 0 1 19 1 H381 A18 18 0 0 1 399 19 V96 H1 Z" fill="url(#g)"/>
+<g transform="translate(350 48)" opacity=".95"><g stroke="#fff" stroke-width="3" fill="none" stroke-linejoin="round"><path d="M0 -26 L26 -12 L26 16 L0 30 L-26 16 L-26 -12 Z"/><path d="M-26 -12 L0 2 L26 -12 M0 2 L0 30"/></g></g>
+<text x="28" y="62" fill="#FFFFFF" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="700">Cubo mágico 3D</text>
+<text x="28" y="134" fill="#33464D" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5">Um cubo mágico de verdade no</text>
+<text x="28" y="158" fill="#33464D" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5">celular: gire as faces com o dedo.</text>
+<rect x="28" y="196" width="81" height="28" rx="14" fill="#1F6F8B" fill-opacity=".12"/><text x="68.5" y="215" text-anchor="middle" fill="#1F6F8B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Android</text><rect x="117" y="196" width="56" height="28" rx="14" fill="#1F6F8B" fill-opacity=".12"/><text x="145.0" y="215" text-anchor="middle" fill="#1F6F8B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Java</text><rect x="181" y="196" width="40" height="28" rx="14" fill="#1F6F8B" fill-opacity=".12"/><text x="201.0" y="215" text-anchor="middle" fill="#1F6F8B" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">3D</text>
+</svg>
