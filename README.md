@@ -1,16 +1,17 @@
 <!-- Cabeçalho animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E3F,50:1F6F8B,100:C9A66B&height=200&section=header&text=Andr%C3%A9%20Fecury&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dev%20J%C3%BAnior%20%C2%B7%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Manaus%2C%20AM&descAlignY=58&descSize=18" alt="André Fecury" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E3F,50:1F6F8B,100:C9A66B&height=200&section=header&text=Andr%C3%A9%20Fecury&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20QA%20%26%20Test%20Engineer%20Intern%20%40%20Sidia%20%28Samsung%29%20%C2%B7%20Manaus%2C%20AM&descAlignY=58&descSize=18" alt="André Fecury" />
 </p>
 
 <p align="center">
   <a href="https://andrefecury.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=1F9BC4&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Andr%C3%A9+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UNIP;Back-end+com+Python%2C+Java+e+PostgreSQL;Apps+Android+e+jogos+3D+na+Unity;Direto+de+Manaus+%F0%9F%8C%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=1F9BC4&center=true&vCenter=true&width=620&lines=Ol%C3%A1%21+Eu+sou+o+Andr%C3%A9+%F0%9F%91%8B;QA+%26+Test+Engineer+Intern+%40+Sidia+%28Samsung%29;Automa%C3%A7%C3%A3o+de+testes+com+Python;Valida%C3%A7%C3%A3o+de+firmware+FOTA%2FFUS;Android%2C+Flutter+e+IA;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+UNIP" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://andrefecury.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-interativo-1F6F8B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-fecury-54a583313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=AndreFecury&label=visitas&color=0B2E3F&style=for-the-badge" alt="Visitas" />
   <img src="https://img.shields.io/badge/Manaus-AM-C9A66B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Manaus" />
 </p>
@@ -24,24 +25,47 @@ class AndreFecury:
     def __init__(self):
         self.nome = "André Luiz Sales Fecury Filho"
         self.local = "Manaus, Amazonas 🇧🇷"
-        self.curso = "Ciência da Computação · UNIP (3º de 8 semestres)"
-        self.foco = ["Back-end", "Banco de Dados", "Mobile", "Jogos 3D"]
-        self.aprendendo = ["FastAPI", "Docker", "Spring Boot", "CI/CD"]
+        self.cargo = "Software & Firmware Analyst Intern (FOTA/FUS) @ Sidia · Samsung"
+        self.curso = "Ciência da Computação · UNIP (4º semestre, 2025–2028)"
+        self.foco = ["QA & Test Automation", "Android", "IA", "Engenharia de Software", "P&D"]
+        self.construindo = "BookMind AI 📚🤖"
 
-    def status(self):
-        return "Aberto a oportunidades de estágio 🚀"
+    def interesses(self):
+        return ["QA Engineering", "Test Automation", "Desenvolvimento Android", "R&D"]
 ```
+
+## 💼 Experiência
+
+**Software & Firmware Analyst Intern (FOTA/FUS)** · [Sidia Instituto de Ciência e Tecnologia](https://www.sidia.com) · jun/2026 – atual · Manaus
+
+Testes, validação e automação das soluções de atualização de firmware da Samsung: **FOTA** (Firmware Over-The-Air) e **FUS** (Firmware Update Server).
+
+- 🧪 Testes manuais e automatizados: funcionais, de regressão e de validação de firmware
+- 📋 Análise de requisitos e escrita de casos e cenários de teste
+- 🐍 Scripts em **Python** para automatizar testes e agilizar o fluxo da equipe
+- 🔍 Reprodução de defeitos, análise de logs e investigação de causa raiz
+- 📦 Verificação de integridade de pacotes de firmware em dispositivos Samsung
+- 🤝 Times multidisciplinares de hardware e software em ambiente **Ágil**
 
 ## 🛠️ Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,html,css&perline=7" alt="Linguagens" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cs,dart,js,html,css&perline=8" alt="Linguagens" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,sqlite,docker,androidstudio,unity,flutter,git,github,gitlab,vscode,idea&perline=13" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,supabase,postgres,sqlite,fastapi,spring,docker,unity,git,github,gitlab,vscode,idea&perline=14" alt="Ferramentas" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-Software_Testing-1F6F8B?style=flat-square" alt="QA" />
+  <img src="https://img.shields.io/badge/Test_Automation-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/Regression_%26_Functional-Testing-0B2E3F?style=flat-square" alt="Testes" />
+  <img src="https://img.shields.io/badge/FOTA%2FFUS-Firmware_Validation-1428A0?style=flat-square&logo=samsung&logoColor=white" alt="FOTA/FUS" />
+  <img src="https://img.shields.io/badge/Log_Analysis-Debugging-C9A66B?style=flat-square" alt="Debugging" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-6DB33F?style=flat-square" alt="Agile" />
 </p>
 
 ## 🚀 Projetos em destaque
@@ -90,10 +114,18 @@ class AndreFecury:
 </table>
 
 <details>
+<summary><b>📚 BookMind AI · app de leitura inteligente (em desenvolvimento)</b></summary>
+<br/>
+
+App de leitura com indexação semântica, repetição espaçada e comandos contextuais com IA.
+
+</details>
+
+<details>
 <summary><b>🌊 AquAlerta · monitoramento de enchentes em Manaus (APS, em grupo)</b></summary>
 <br/>
 
-App **Flutter** com mapa interativo de Manaus e região, eventos por severidade (Baixo, Médio, Alto, Crítico), alertas push e dados do **Copernicus** e da **ANA**, com backend no **Supabase** e protótipo de API em **Spring Boot**.
+App **Flutter** de monitoramento de enchentes em tempo real para a Amazônia, com mapa interativo de Manaus e região, eventos por severidade (Baixo, Médio, Alto, Crítico), alertas push e dados do **Copernicus** e da **ANA**, com backend no **Supabase** e protótipo de API em **Spring Boot**.
 Repositório privado.
 
 </details>
@@ -144,6 +176,7 @@ Código em [`faculdade-ciencia-da-computacao/c`](https://github.com/AndreFecury/
 
 <p align="center">
   <a href="https://andrefecury.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0B2E3F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-fecury-54a583313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AndreFecury"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
