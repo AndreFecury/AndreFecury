@@ -46,13 +46,48 @@ class AndreFecury:
 
 ## 🚀 Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=Cubo-m-gico-3d-Android-em-Java&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Cubo mágico 3D" /></a>
-  <a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=Jogo-3d-Unity-happy-tree-friends-&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Jogo 3D Unity" /></a>
-  <a href="https://github.com/AndreFecury/AES-python"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=AES-python&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="AES Python" /></a>
-  <a href="https://github.com/AndreFecury/BD_POO"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=BD_POO&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="BD_POO" /></a>
-  <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=faculdade-ciencia-da-computacao&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Faculdade" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java">🧊 Cubo mágico 3D</a></h3>
+      App Android que simula um cubo 3×3 interativo em 3D, com os movimentos de um cubo físico.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-">🌲 Jogo de terror 3D</a></h3>
+      Jogo em primeira pessoa na Unity, com foco em tensão psicológica, exploração e atmosfera.<br/><br/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/BD_POO">🗄️ BD_POO</a></h3>
+      CRUD em Python com SQLite e PostgreSQL + pgAdmin no Docker, com schema, seed e queries.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/AES-python">🔐 AES em Python</a></h3>
+      Sistema de criptografia simétrica com o algoritmo AES.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Criptografia-1F6F8B?style=flat-square" alt="Criptografia" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">🎓 Atividades da faculdade</a></h3>
+      Java com Swing, C, Python, HTML/CSS, Spring Boot e Docker, organizados por disciplina.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>🌊 AquAlerta · monitoramento de enchentes em Manaus (APS, em grupo)</b></summary>
@@ -85,8 +120,8 @@ Código em [`faculdade-ciencia-da-computacao/c`](https://github.com/AndreFecury/
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=AndreFecury&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B&locale=pt-br" alt="Estatísticas" />
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreFecury&layout=compact&langs_count=8&theme=transparent&title_color=1F9BC4&text_color=8b949e&border_color=1F6F8B&locale=pt-br" alt="Linguagens" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreFecury&theme=github_dark" alt="Estatísticas" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreFecury&theme=github_dark" alt="Linguagens por repositório" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AndreFecury&theme=transparent&ring=1F9BC4&fire=C9A66B&currStreakLabel=1F9BC4&sideLabels=8b949e&dates=8b949e&border=1F6F8B&locale=pt_BR" alt="Sequência" />
