@@ -2,7 +2,7 @@
 
 <img src="assets/ficha-v2.svg" width="100%" alt="Ficha do jogador: classe QA Tester (estagiário), guilda Sidia · Samsung, base Manaus, missão atual BookMind AI. Faculdade: 4 de 8 semestres." />
 
-## 👾 Sobre mim
+## <img src="assets/ic-sobre.svg" height="32" align="absmiddle" alt="" /> Sobre mim
 
 Sou estudante de **Ciência da Computação na UNIP** em Manaus e estagiário de **Software QA & Testes no Sidia**, instituto de P&D que desenvolve tecnologia para a **Samsung**.
 
@@ -12,18 +12,18 @@ Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks:
 
 <img src="assets/cacabugs.svg" width="100%" alt="Animação: uma lupa persegue um bug pixelado até ele virar 'bug corrigido'. Modo caça-bugs ativado desde junho de 2026." />
 
-## 🕹️ Missão atual: Sidia · Samsung
+## <img src="assets/ic-missao.svg" height="32" align="absmiddle" alt="" /> Missão atual: Sidia · Samsung
 
 | | Atividade | Na prática |
 |:--:|---|---|
-| 🧪 | Testes funcionais e de regressão | Valido builds de firmware e garanto que correções não quebram funcionalidades existentes |
-| 📋 | Casos de teste | Escrevo e mantenho casos de teste a partir dos requisitos de cada feature |
-| 🐍 | Automação com Python | Scripts que executam testes repetitivos e coletam resultados automaticamente |
-| 🔍 | Análise de logs e causa raiz | Investigo logs do sistema para isolar a origem dos defeitos e reportá-los com precisão |
-| 📦 | Validação de firmware (FOTA/FUS) | Verifico a integridade e o comportamento das atualizações enviadas aos dispositivos |
-| 🤝 | Times ágeis (Scrum) | Atuo junto às equipes de hardware e software no ciclo de desenvolvimento |
+| <img src="assets/ic-teste.svg" height="28" align="absmiddle" alt="" /> | Testes funcionais e de regressão | Valido builds de firmware e garanto que correções não quebram funcionalidades existentes |
+| <img src="assets/ic-casos.svg" height="28" align="absmiddle" alt="" /> | Casos de teste | Escrevo e mantenho casos de teste a partir dos requisitos de cada feature |
+| <img src="assets/ic-auto.svg" height="28" align="absmiddle" alt="" /> | Automação com Python | Scripts que executam testes repetitivos e coletam resultados automaticamente |
+| <img src="assets/ic-logs.svg" height="28" align="absmiddle" alt="" /> | Análise de logs e causa raiz | Investigo logs do sistema para isolar a origem dos defeitos e reportá-los com precisão |
+| <img src="assets/ic-firmware.svg" height="28" align="absmiddle" alt="" /> | Validação de firmware (FOTA/FUS) | Verifico a integridade e o comportamento das atualizações enviadas aos dispositivos |
+| <img src="assets/ic-times.svg" height="28" align="absmiddle" alt="" /> | Times ágeis (Scrum) | Atuo junto às equipes de hardware e software no ciclo de desenvolvimento |
 
-## 🎮 Fases concluídas
+## <img src="assets/ic-fases.svg" height="32" align="absmiddle" alt="" /> Fases concluídas
 
 <table>
   <tr>
@@ -40,17 +40,17 @@ Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks:
   </tr>
 </table>
 
-<sub>🔒 AquAlerta e BookMind AI têm repositório privado; os cartões levam ao portfólio. As atividades da faculdade ficam em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</sub>
+<sub><img src="assets/ic-lock.svg" height="16" align="absmiddle" alt="" /> AquAlerta e BookMind AI têm repositório privado; os cartões levam ao portfólio. As atividades da faculdade ficam em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</sub>
 
-## 🗺️ Mapa da jornada
+## <img src="assets/ic-mapa.svg" height="32" align="absmiddle" alt="" /> Mapa da jornada
 
 <img src="assets/mapa-v2.svg" width="100%" alt="Mapa estilo videogame com 6 fases: faculdade (fev 2025), AES (dez 2025), cubo 3D e jogo (mar 2026), AquAlerta (mai 2026), Sidia (jun 2026, fase atual) e BookMind AI (2026)." />
 
-## 🏆 Inventário
+## <img src="assets/ic-inventario.svg" height="32" align="absmiddle" alt="" /> Inventário
 
 <img src="assets/conquistas.svg" width="100%" alt="Conquistas desbloqueadas: Python, testes, regressão, FOTA/FUS, logs, Android, Flutter, Unity, Java, C#, SQL, Docker, Git, Scrum e inglês." />
 
-## 💬 Player 2, aperte start
+## <img src="assets/ic-contato.svg" height="32" align="absmiddle" alt="" /> Player 2, aperte start
 
 <p>
   <a href="https://www.linkedin.com/in/andr%C3%A9-fecury-54a583313"><img src="assets/btn-linkedin.svg" width="31%" alt="LinkedIn" /></a>
