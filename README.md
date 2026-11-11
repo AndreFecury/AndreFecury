@@ -49,11 +49,19 @@ class AndreFecury:
 <p align="center">
   <a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=Cubo-m-gico-3d-Android-em-Java&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Cubo mágico 3D" /></a>
   <a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=Jogo-3d-Unity-happy-tree-friends-&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Jogo 3D Unity" /></a>
-  <a href="https://github.com/AndreFecury/aqualerta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=aqualerta&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="AquAlerta" /></a>
   <a href="https://github.com/AndreFecury/AES-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=AES-python&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="AES Python" /></a>
   <a href="https://github.com/AndreFecury/BD_POO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=BD_POO&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="BD_POO" /></a>
   <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=faculdade-ciencia-da-computacao&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Faculdade" /></a>
 </p>
+
+<details>
+<summary><b>🌊 AquAlerta · monitoramento de enchentes em Manaus (APS, em grupo)</b></summary>
+<br/>
+
+App **Flutter** com mapa interativo de Manaus e região, eventos por severidade (Baixo, Médio, Alto, Crítico), alertas push e dados do **Copernicus** e da **ANA**, com backend no **Supabase** e protótipo de API em **Spring Boot**.
+Repositório privado.
+
+</details>
 
 <details>
 <summary><b>🛒 Picped · comparação de preços de supermercados (projeto em equipe)</b></summary>
