@@ -14,14 +14,14 @@ Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks:
 
 ## <img src="assets/ic-missao.svg" height="32" align="absmiddle" alt="" /> Missão atual: Sidia · Samsung
 
-| | Atividade | Na prática |
-|:--:|---|---|
-| <img src="assets/ic-teste.svg" height="28" align="absmiddle" alt="" /> | Testes funcionais e de regressão | Valido builds de firmware e garanto que correções não quebram funcionalidades existentes |
-| <img src="assets/ic-casos.svg" height="28" align="absmiddle" alt="" /> | Casos de teste | Escrevo e mantenho casos de teste a partir dos requisitos de cada feature |
-| <img src="assets/ic-auto.svg" height="28" align="absmiddle" alt="" /> | Automação com Python | Scripts que executam testes repetitivos e coletam resultados automaticamente |
-| <img src="assets/ic-logs.svg" height="28" align="absmiddle" alt="" /> | Análise de logs e causa raiz | Investigo logs do sistema para isolar a origem dos defeitos e reportá-los com precisão |
-| <img src="assets/ic-firmware.svg" height="28" align="absmiddle" alt="" /> | Validação de firmware (FOTA/FUS) | Verifico a integridade e o comportamento das atualizações enviadas aos dispositivos |
-| <img src="assets/ic-times.svg" height="28" align="absmiddle" alt="" /> | Times ágeis (Scrum) | Atuo junto às equipes de hardware e software no ciclo de desenvolvimento |
+| Atividade | Na prática |
+|---|---|
+| <img src="assets/ic-teste.svg" width="28" height="28" align="absmiddle" alt="" /> Testes funcionais e de regressão | Valido builds de firmware e garanto que correções não quebram funcionalidades existentes |
+| <img src="assets/ic-casos.svg" width="28" height="28" align="absmiddle" alt="" /> Casos de teste | Escrevo e mantenho casos de teste a partir dos requisitos de cada feature |
+| <img src="assets/ic-auto.svg" width="28" height="28" align="absmiddle" alt="" /> Automação com Python | Scripts que executam testes repetitivos e coletam resultados automaticamente |
+| <img src="assets/ic-logs.svg" width="28" height="28" align="absmiddle" alt="" /> Análise de logs e causa raiz | Investigo logs do sistema para isolar a origem dos defeitos e reportá-los com precisão |
+| <img src="assets/ic-firmware.svg" width="28" height="28" align="absmiddle" alt="" /> Validação de firmware (FOTA/FUS) | Verifico a integridade e o comportamento das atualizações enviadas aos dispositivos |
+| <img src="assets/ic-times.svg" width="28" height="28" align="absmiddle" alt="" /> Times ágeis (Scrum) | Atuo junto às equipes de hardware e software no ciclo de desenvolvimento |
 
 ## <img src="assets/ic-fases.svg" height="32" align="absmiddle" alt="" /> Fases concluídas
 
