@@ -47,11 +47,11 @@ class AndreFecury:
 ## 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=Cubo-m-gico-3d-Android-em-Java&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Cubo mágico 3D" /></a>
-  <a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=Jogo-3d-Unity-happy-tree-friends-&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Jogo 3D Unity" /></a>
-  <a href="https://github.com/AndreFecury/AES-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=AES-python&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="AES Python" /></a>
-  <a href="https://github.com/AndreFecury/BD_POO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=BD_POO&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="BD_POO" /></a>
-  <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreFecury&repo=faculdade-ciencia-da-computacao&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Faculdade" /></a>
+  <a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=Cubo-m-gico-3d-Android-em-Java&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Cubo mágico 3D" /></a>
+  <a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=Jogo-3d-Unity-happy-tree-friends-&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Jogo 3D Unity" /></a>
+  <a href="https://github.com/AndreFecury/AES-python"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=AES-python&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="AES Python" /></a>
+  <a href="https://github.com/AndreFecury/BD_POO"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=BD_POO&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="BD_POO" /></a>
+  <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=AndreFecury&repo=faculdade-ciencia-da-computacao&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B" alt="Faculdade" /></a>
 </p>
 
 <details>
@@ -85,14 +85,14 @@ Código em [`faculdade-ciencia-da-computacao/c`](https://github.com/AndreFecury/
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreFecury&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B&locale=pt-br" alt="Estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFecury&layout=compact&langs_count=8&theme=transparent&title_color=1F9BC4&text_color=8b949e&border_color=1F6F8B&locale=pt-br" alt="Linguagens" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=AndreFecury&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=1F9BC4&icon_color=C9A66B&text_color=8b949e&border_color=1F6F8B&locale=pt-br" alt="Estatísticas" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=AndreFecury&layout=compact&langs_count=8&theme=transparent&title_color=1F9BC4&text_color=8b949e&border_color=1F6F8B&locale=pt-br" alt="Linguagens" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AndreFecury&theme=transparent&ring=1F9BC4&fire=C9A66B&currStreakLabel=1F9BC4&sideLabels=8b949e&dates=8b949e&border=1F6F8B&locale=pt_BR" alt="Sequência" />
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreFecury&bg_color=00000000&color=8b949e&line=1F9BC4&point=C9A66B&area=true&area_color=1F6F8B&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" alt="Atividade" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreFecury&theme=github_dark" alt="Atividade" />
 </p>
 
 ## 🐍 Minhas contribuições
