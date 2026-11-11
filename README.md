@@ -1,6 +1,6 @@
-<a href="https://andrefecury.github.io"><img src="assets/hero.svg" width="100%" alt="Cena pixelada de Manaus ao pôr do sol: André Fecury, QA Tester no Sidia (Samsung), sentado na beira do rio com o notebook caçando bugs" /></a>
+<a href="https://andrefecury.github.io"><img src="assets/hero.svg?v=2" width="100%" alt="Cena pixelada de Manaus ao pôr do sol: André Fecury, QA Tester no Sidia (Samsung), sentado na beira do rio com o notebook caçando bugs" /></a>
 
-<img src="assets/ficha.svg" width="100%" alt="Ficha do jogador: classe QA Tester (estagiário), guilda Sidia · Samsung, base Manaus, missão atual BookMind AI. Faculdade: 4 de 8 semestres." />
+<img src="assets/ficha.svg?v=2" width="100%" alt="Ficha do jogador: classe QA Tester (estagiário), guilda Sidia · Samsung, base Manaus, missão atual BookMind AI. Faculdade: 4 de 8 semestres." />
 
 ## 👾 Oi! Eu sou o André
 
@@ -44,7 +44,7 @@ No tempo livre eu construo coisas que dá para tocar: um cubo mágico em 3D, um 
 
 ## 🗺️ Mapa da jornada
 
-<img src="assets/mapa.svg" width="100%" alt="Mapa estilo videogame com 6 fases: faculdade (fev 2025), AES (dez 2025), cubo 3D e jogo (mar 2026), AquAlerta (mai 2026), Sidia (jun 2026, fase atual) e BookMind AI (2026)." />
+<img src="assets/mapa.svg?v=2" width="100%" alt="Mapa estilo videogame com 6 fases: faculdade (fev 2025), AES (dez 2025), cubo 3D e jogo (mar 2026), AquAlerta (mai 2026), Sidia (jun 2026, fase atual) e BookMind AI (2026)." />
 
 ## 🏆 Inventário
 
