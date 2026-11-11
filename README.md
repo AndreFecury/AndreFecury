@@ -1,11 +1,11 @@
 <!-- Cabeçalho animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E3F,50:1F6F8B,100:C9A66B&height=200&section=header&text=Andr%C3%A9%20Fecury&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20QA%20%26%20Test%20Engineer%20Intern%20%40%20Sidia%20%28Samsung%29%20%C2%B7%20Manaus%2C%20AM&descAlignY=58&descSize=18" alt="André Fecury" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E3F,50:1F6F8B,100:C9A66B&height=200&section=header&text=Andr%C3%A9%20Fecury&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20QA%20%C2%B7%20Test%20Engineer%20Intern%20%C2%B7%20Sidia%20%28Samsung%29%20%C2%B7%20Manaus%2C%20AM&descAlignY=58&descSize=18" alt="André Fecury" />
 </p>
 
 <p align="center">
   <a href="https://andrefecury.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=1F9BC4&center=true&vCenter=true&width=620&lines=Ol%C3%A1%21+Eu+sou+o+Andr%C3%A9+%F0%9F%91%8B;QA+%26+Test+Engineer+Intern+%40+Sidia+%28Samsung%29;Automa%C3%A7%C3%A3o+de+testes+com+Python;Valida%C3%A7%C3%A3o+de+firmware+FOTA%2FFUS;Android%2C+Flutter+e+IA;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+UNIP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=1F9BC4&center=true&vCenter=true&width=720&lines=Ol%C3%A1%21+Eu+sou+o+Andr%C3%A9+%F0%9F%91%8B;QA+%26+Test+Engineer+Intern+%40+Sidia+%28Samsung%29;Automa%C3%A7%C3%A3o+de+testes+com+Python;Valida%C3%A7%C3%A3o+de+firmware+FOTA%2FFUS;Android%2C+Flutter+e+IA;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+UNIP" alt="Typing SVG" />
   </a>
 </p>
 
