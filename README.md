@@ -44,7 +44,7 @@ Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks:
 
 ## <img src="assets/ic-mapa.svg" height="32" align="absmiddle" alt="" /> Mapa da jornada
 
-<img src="assets/mapa-v2.svg" width="100%" alt="Mapa estilo videogame com 6 fases: faculdade (fev 2025), AES (dez 2025), cubo 3D e jogo (mar 2026), AquAlerta (mai 2026), Sidia (jun 2026, fase atual) e BookMind AI (2026)." />
+<img src="assets/mapa-v3.svg" width="100%" alt="Mapa da jornada. Mundo 1, projetos: início na UNIP (fev 2025), AES (dez 2025), cubo 3D e jogo em Unity (mar 2026), AquAlerta (mai 2026) e BookMind AI, em criação. Mundo 2, em destaque: Sidia · Samsung, estágio de QA desde jun 2026." />
 
 ## <img src="assets/ic-inventario.svg" height="32" align="absmiddle" alt="" /> Inventário
 
