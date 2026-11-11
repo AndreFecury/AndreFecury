@@ -2,26 +2,26 @@
 
 <img src="assets/ficha-v2.svg" width="100%" alt="Ficha do jogador: classe QA Tester (estagiário), guilda Sidia · Samsung, base Manaus, missão atual BookMind AI. Faculdade: 4 de 8 semestres." />
 
-## 👾 Oi! Eu sou o André
+## 👾 Sobre mim
 
-Moro em **Manaus**, estudo **Ciência da Computação na UNIP** e passo o dia caçando bugs no **Sidia**, o instituto que desenvolve tecnologia para a **Samsung**.
+Sou estudante de **Ciência da Computação na UNIP** em Manaus e estagiário de **Software QA & Testes no Sidia**, instituto de P&D que desenvolve tecnologia para a **Samsung**.
 
-Meu trabalho é simples de explicar: quando seu celular baixa uma atualização, alguém precisa garantir que ela não vai quebrar nada. Esse alguém sou eu (e um time inteiro de gente boa). Eu testo, investigo o que deu errado e escrevo scripts em Python que fazem os testes chatos sozinhos.
+No estágio trabalho com validação de firmware Android: testes funcionais e de regressão em atualizações OTA, análise de logs para encontrar a causa raiz de falhas e automação de testes em Python para reduzir trabalho manual e repetitivo.
 
-No tempo livre eu construo coisas que dá para tocar: um cubo mágico em 3D, um jogo de terror, um app que avisa sobre enchentes na Amazônia e, agora, um app de leitura com IA.
+Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks: Android nativo em Java, jogos em Unity/C#, apps em Flutter e, no momento, um app de leitura com IA.
 
 <img src="assets/cacabugs.svg" width="100%" alt="Animação: uma lupa persegue um bug pixelado até ele virar 'bug corrigido'. Modo caça-bugs ativado desde junho de 2026." />
 
 ## 🕹️ Missão atual: Sidia · Samsung
 
-| | O que eu faço | Em português claro |
+| | Atividade | Na prática |
 |:--:|---|---|
-| 🧪 | Testes funcionais e de regressão | Confiro se tudo continua funcionando depois de cada mudança |
-| 📋 | Casos de teste | Transformo requisitos em um passo a passo do que testar |
-| 🐍 | Automação com Python | Faço o computador repetir os testes por mim |
-| 🔍 | Análise de logs e causa raiz | Leio o "diário" do sistema até achar onde o bug nasceu |
-| 📦 | Validação de firmware (FOTA/FUS) | Garanto que a atualização chega inteira e segura no aparelho |
-| 🤝 | Times ágeis | Trabalho junto com o pessoal de hardware e software |
+| 🧪 | Testes funcionais e de regressão | Valido builds de firmware e garanto que correções não quebram funcionalidades existentes |
+| 📋 | Casos de teste | Escrevo e mantenho casos de teste a partir dos requisitos de cada feature |
+| 🐍 | Automação com Python | Scripts que executam testes repetitivos e coletam resultados automaticamente |
+| 🔍 | Análise de logs e causa raiz | Investigo logs do sistema para isolar a origem dos defeitos e reportá-los com precisão |
+| 📦 | Validação de firmware (FOTA/FUS) | Verifico a integridade e o comportamento das atualizações enviadas aos dispositivos |
+| 🤝 | Times ágeis (Scrum) | Atuo junto às equipes de hardware e software no ciclo de desenvolvimento |
 
 ## 🎮 Fases concluídas
 
@@ -31,16 +31,16 @@ No tempo livre eu construo coisas que dá para tocar: um cubo mágico em 3D, um 
     <td width="50%"><a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="assets/jogo.svg" width="100%" alt="Jogo de terror 3D em Unity e C#" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://andrefecury.github.io/#projetos"><img src="assets/aqualerta.svg" width="100%" alt="AquAlerta: app que avisa sobre enchentes em Manaus" /></a></td>
+    <td width="50%"><a href="https://andrefecury.github.io/#projetos"><img src="assets/aqualerta.svg" width="100%" alt="AquAlerta: app de monitoramento e alerta de enchentes em Manaus, em Flutter" /></a></td>
     <td width="50%"><a href="https://andrefecury.github.io/#projetos"><img src="assets/bookmind.svg" width="100%" alt="BookMind AI: app de leitura com inteligência artificial, em criação" /></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/AndreFecury/AES-python"><img src="assets/aes.svg" width="100%" alt="Criptografia AES em Python" /></a></td>
-    <td width="50%"><a href="https://github.com/AndreFecury/BD_POO"><img src="assets/bdpoo.svg" width="100%" alt="Sistema com banco de dados, Python e Docker" /></a></td>
+    <td width="50%"><a href="https://github.com/AndreFecury/BD_POO"><img src="assets/bdpoo.svg" width="100%" alt="Sistema com banco de dados em Python, PostgreSQL e Docker" /></a></td>
   </tr>
 </table>
 
-<sub>🔒 AquAlerta e BookMind AI têm código fechado, então os cartões levam ao meu portfólio. As atividades da faculdade ficam em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</sub>
+<sub>🔒 AquAlerta e BookMind AI têm repositório privado; os cartões levam ao portfólio. As atividades da faculdade ficam em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</sub>
 
 ## 🗺️ Mapa da jornada
 
@@ -58,4 +58,4 @@ No tempo livre eu construo coisas que dá para tocar: um cubo mágico em 3D, um 
   <a href="mailto:fecury.andre5@gmail.com"><img src="assets/btn-email.svg" width="31%" alt="E-mail: fecury.andre5@gmail.com" /></a>
 </p>
 
-<sub>Todas as artes deste perfil foram desenhadas pixel por pixel para ele. Nenhum bug foi ferido na produção (todos foram corrigidos).</sub>
+<sub>Artes em pixel art feitas sob medida para este perfil, geradas como SVG animado.</sub>
