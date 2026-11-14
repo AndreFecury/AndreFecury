@@ -25,9 +25,9 @@ Fora do estágio, desenvolvo projetos próprios em diferentes stacks: o **Picped
 
 ## <img src="assets/ic-fases.svg" height="32" align="absmiddle" alt="" /> Projetos em destaque
 
-<a href="https://github.com/AndreFecury/picped"><img src="assets/picped.svg" width="100%" alt="Picped, projeto em destaque: compara preços de supermercados em Manaus com dados da comunidade validados pelo GPS; API REST autoral em FastAPI e PostgreSQL e app Android em Flutter. 135 testes, 46 endpoints, CI verde." /></a>
+<a href="https://github.com/AndreFecury/Picped"><img src="assets/picped.svg" width="100%" alt="Picped, projeto em destaque: compara preços de supermercados em Manaus com dados da comunidade validados pelo GPS; API REST autoral em FastAPI e PostgreSQL e app Android em Flutter. 135 testes, 46 endpoints, CI verde." /></a>
 
-### [Picped](https://github.com/AndreFecury/picped) · comparador de preços de supermercados
+### [Picped](https://github.com/AndreFecury/Picped) · comparador de preços de supermercados
 
 API REST autoral em **FastAPI e PostgreSQL** e app Android em **Flutter**: os usuários registram preços, o GPS confirma que estão no mercado e a API mostra onde cada produto ou a lista inteira sai mais barato. Feito em equipe com [Luís San Martin](https://github.com/OSan-Martin).
 
@@ -46,13 +46,13 @@ API REST autoral em **FastAPI e PostgreSQL** e app Android em **Flutter**: os us
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java">Cubo mágico 3D</a></h3>
-      <a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="assets/cubo.svg" width="100%" alt="Cubo mágico 3D para Android, em Java" /></a>
+      <h3><a href="https://github.com/AndreFecury/Cubo-Magico-3D">Cubo mágico 3D</a></h3>
+      <a href="https://github.com/AndreFecury/Cubo-Magico-3D"><img src="assets/cubo.svg" width="100%" alt="Cubo mágico 3D para Android, em Java" /></a>
       <p>Cubo mágico 3x3 interativo em 3D para Android, em <b>Java</b>: as faces giram com o toque.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-">Jogo de terror 3D</a></h3>
-      <a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="assets/jogo.svg" width="100%" alt="Jogo de terror 3D em Unity e C#" /></a>
+      <h3><a href="https://github.com/AndreFecury/Jogo-de-Terror-3D">Jogo de terror 3D</a></h3>
+      <a href="https://github.com/AndreFecury/Jogo-de-Terror-3D"><img src="assets/jogo.svg" width="100%" alt="Jogo de terror 3D em Unity e C#" /></a>
       <p>Jogo de terror em primeira pessoa feito na <b>Unity</b> com <b>C#</b>.</p>
     </td>
   </tr>
@@ -78,8 +78,8 @@ API REST autoral em **FastAPI e PostgreSQL** e app Android em **Flutter**: os us
       <p><b><a href="https://github.com/AndreFecury/BD_POO">Banco de dados e POO</a></b><br /><sub>CRUD com SQLite, PostgreSQL com Docker e POO em Python</sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao"><img src="assets/faculdade.svg" width="100%" alt="Faculdade: exercícios e trabalhos das disciplinas de Ciência da Computação na UNIP. C e Python." /></a>
-      <p><b><a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">Atividades do curso</a></b><br /><sub>Exercícios das disciplinas, em C e Python</sub></p>
+      <a href="https://github.com/AndreFecury/Faculdade-CC"><img src="assets/faculdade.svg" width="100%" alt="Faculdade: exercícios e trabalhos das disciplinas de Ciência da Computação na UNIP. C e Python." /></a>
+      <p><b><a href="https://github.com/AndreFecury/Faculdade-CC">Atividades do curso</a></b><br /><sub>Exercícios das disciplinas, em C e Python</sub></p>
     </td>
   </tr>
 </table>
