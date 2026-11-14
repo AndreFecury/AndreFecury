@@ -29,19 +29,19 @@ Fora do estágio, desenvolvo projetos próprios em diferentes stacks: o **Picped
 
 ### [Picped](https://github.com/AndreFecury/picped) · comparador de preços de supermercados
 
-Plataforma colaborativa em que os próprios usuários registram o preço da prateleira e a API confirma pelo GPS que eles estão mesmo dentro do mercado. Responde em qual loja cada produto, ou a lista de compras inteira, sai mais barato. **API REST autoral** em FastAPI e PostgreSQL 16 (46 endpoints, SQL parametrizado, 135 testes contra banco real, CI no GitHub Actions, Docker não-root) e **app Android** em Flutter. Feito em equipe com [Luís San Martin](https://github.com/OSan-Martin).
+API REST autoral em **FastAPI e PostgreSQL** e app Android em **Flutter**: os usuários registram preços, o GPS confirma que estão no mercado e a API mostra onde cada produto ou a lista inteira sai mais barato. Feito em equipe com [Luís San Martin](https://github.com/OSan-Martin).
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AndreFecury/QR-Acesso">QR Acesso</a></h3>
       <a href="https://github.com/AndreFecury/QR-Acesso"><img src="assets/qracesso.svg" width="100%" alt="QR Acesso: guarda o QR Code da catraca da faculdade e mostra em tela cheia, até sem internet. Android e Kotlin." /></a>
-      <p>App Android nativo em <b>Kotlin</b> que guarda o QR Code da catraca da faculdade e o mostra em tela cheia, offline, assim que o app abre.</p>
+      <p>App Android nativo em <b>Kotlin</b> que guarda o QR Code da catraca da faculdade e o mostra em tela cheia, offline.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://andrefecury.github.io/#projetos">AquAlerta</a></h3>
       <a href="https://andrefecury.github.io/#projetos"><img src="assets/aqualerta.svg" width="100%" alt="AquAlerta: app de monitoramento e alerta de enchentes em Manaus, em Flutter" /></a>
-      <p>App em <b>Flutter</b> com mapas que avisa quem mora em Manaus quando o rio ameaça subir, em tempo real. <sub><img src="assets/ic-lock.svg" height="14" align="absmiddle" alt="" /> repositório privado</sub></p>
+      <p>App em <b>Flutter</b> com mapas que avisa quem mora em Manaus quando o rio ameaça subir. <sub><img src="assets/ic-lock.svg" height="14" align="absmiddle" alt="" /> privado</sub></p>
     </td>
   </tr>
   <tr>
@@ -57,14 +57,29 @@ Plataforma colaborativa em que os próprios usuários registram o preço da prat
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" align="center">
       <h3><a href="https://andrefecury.github.io/#projetos">BookMind AI</a> <sub>em criação</sub></h3>
-      <a href="https://andrefecury.github.io/#projetos"><img src="assets/bookmind.svg" width="100%" alt="BookMind AI: app de leitura com inteligência artificial, em criação" /></a>
-      <p>App de leitura com inteligência artificial, a missão atual fora do estágio. <sub><img src="assets/ic-lock.svg" height="14" align="absmiddle" alt="" /> repositório privado</sub></p>
+      <a href="https://andrefecury.github.io/#projetos"><img src="assets/bookmind.svg" width="50%" alt="BookMind AI: app de leitura com inteligência artificial, em criação" /></a>
+      <p>App de leitura com inteligência artificial, a missão atual fora do estágio. <sub><img src="assets/ic-lock.svg" height="14" align="absmiddle" alt="" /> privado</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Atividades da faculdade</h3>
-      <p>Exercícios e trabalhos de disciplinas (criptografia AES em Python, banco de dados e POO, questionário em C) ficam reunidos em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</p>
+  </tr>
+</table>
+
+### Da faculdade
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/AndreFecury/AES-python"><img src="assets/aes.svg" width="100%" alt="Criptografia AES em Python" /></a>
+      <p><b><a href="https://github.com/AndreFecury/AES-python">Criptografia AES</a></b><br /><sub>AES-256 em Python com menu no terminal (APS)</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/AndreFecury/BD_POO"><img src="assets/bdpoo.svg" width="100%" alt="Banco de dados e POO em Python, PostgreSQL e Docker" /></a>
+      <p><b><a href="https://github.com/AndreFecury/BD_POO">Banco de dados e POO</a></b><br /><sub>CRUD com SQLite, PostgreSQL com Docker e POO em Python</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao"><img src="assets/faculdade.svg" width="100%" alt="Faculdade: exercícios e trabalhos das disciplinas de Ciência da Computação na UNIP. C e Python." /></a>
+      <p><b><a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">Atividades do curso</a></b><br /><sub>Exercícios das disciplinas, em C e Python</sub></p>
     </td>
   </tr>
 </table>
