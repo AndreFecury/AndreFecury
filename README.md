@@ -8,7 +8,7 @@ Sou estudante de **Ciência da Computação na UNIP** em Manaus e estagiário de
 
 No estágio trabalho com validação de firmware Android: testes funcionais e de regressão em atualizações OTA, análise de logs para encontrar a causa raiz de falhas e automação de testes em Python para reduzir trabalho manual e repetitivo.
 
-Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks: Android nativo em Java, jogos em Unity/C#, apps em Flutter e, no momento, um app de leitura com IA.
+Fora do estágio, desenvolvo projetos próprios em diferentes stacks: o **Picped**, plataforma de comparação de preços com API em FastAPI e PostgreSQL e app em Flutter, apps Android nativos em Kotlin e Java, um jogo em Unity/C# e, no momento, um app de leitura com IA.
 
 <img src="assets/cacabugs.svg" width="100%" alt="Animação: uma lupa persegue um bug pixelado até ele virar 'bug corrigido'. Modo caça-bugs ativado desde junho de 2026." />
 
@@ -23,24 +23,51 @@ Fora do estágio, desenvolvo projetos próprios para praticar diferentes stacks:
 | <img src="assets/ic-firmware.svg" width="28" height="28" align="absmiddle" alt="" /> Validação de firmware (FOTA/FUS) | Verifico a integridade e o comportamento das atualizações enviadas aos dispositivos |
 | <img src="assets/ic-times.svg" width="28" height="28" align="absmiddle" alt="" /> Times ágeis (Scrum) | Atuo junto às equipes de hardware e software no ciclo de desenvolvimento |
 
-## <img src="assets/ic-fases.svg" height="32" align="absmiddle" alt="" /> Fases concluídas
+## <img src="assets/ic-fases.svg" height="32" align="absmiddle" alt="" /> Projetos em destaque
+
+<a href="https://github.com/AndreFecury/picped"><img src="assets/picped.svg" width="100%" alt="Picped, projeto em destaque: compara preços de supermercados em Manaus com dados da comunidade validados pelo GPS; API REST autoral em FastAPI e PostgreSQL e app Android em Flutter. 135 testes, 46 endpoints, CI verde." /></a>
+
+### [Picped](https://github.com/AndreFecury/picped) · comparador de preços de supermercados
+
+Plataforma colaborativa em que os próprios usuários registram o preço da prateleira e a API confirma pelo GPS que eles estão mesmo dentro do mercado. Responde em qual loja cada produto, ou a lista de compras inteira, sai mais barato. **API REST autoral** em FastAPI e PostgreSQL 16 (46 endpoints, SQL parametrizado, 135 testes contra banco real, CI no GitHub Actions, Docker não-root) e **app Android** em Flutter. Feito em equipe com [Luís San Martin](https://github.com/OSan-Martin).
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="assets/cubo.svg" width="100%" alt="Cubo mágico 3D para Android, em Java" /></a></td>
-    <td width="50%"><a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="assets/jogo.svg" width="100%" alt="Jogo de terror 3D em Unity e C#" /></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/QR-Acesso">QR Acesso</a></h3>
+      <a href="https://github.com/AndreFecury/QR-Acesso"><img src="assets/qracesso.svg" width="100%" alt="QR Acesso: guarda o QR Code da catraca da faculdade e mostra em tela cheia, até sem internet. Android e Kotlin." /></a>
+      <p>App Android nativo em <b>Kotlin</b> que guarda o QR Code da catraca da faculdade e o mostra em tela cheia, offline, assim que o app abre.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://andrefecury.github.io/#projetos">AquAlerta</a></h3>
+      <a href="https://andrefecury.github.io/#projetos"><img src="assets/aqualerta.svg" width="100%" alt="AquAlerta: app de monitoramento e alerta de enchentes em Manaus, em Flutter" /></a>
+      <p>App em <b>Flutter</b> com mapas que avisa quem mora em Manaus quando o rio ameaça subir, em tempo real. <sub><img src="assets/ic-lock.svg" height="14" align="absmiddle" alt="" /> repositório privado</sub></p>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://andrefecury.github.io/#projetos"><img src="assets/aqualerta.svg" width="100%" alt="AquAlerta: app de monitoramento e alerta de enchentes em Manaus, em Flutter" /></a></td>
-    <td width="50%"><a href="https://andrefecury.github.io/#projetos"><img src="assets/bookmind.svg" width="100%" alt="BookMind AI: app de leitura com inteligência artificial, em criação" /></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java">Cubo mágico 3D</a></h3>
+      <a href="https://github.com/AndreFecury/Cubo-m-gico-3d-Android-em-Java"><img src="assets/cubo.svg" width="100%" alt="Cubo mágico 3D para Android, em Java" /></a>
+      <p>Cubo mágico 3x3 interativo em 3D para Android, em <b>Java</b>: as faces giram com o toque.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-">Jogo de terror 3D</a></h3>
+      <a href="https://github.com/AndreFecury/Jogo-3d-Unity-happy-tree-friends-"><img src="assets/jogo.svg" width="100%" alt="Jogo de terror 3D em Unity e C#" /></a>
+      <p>Jogo de terror em primeira pessoa feito na <b>Unity</b> com <b>C#</b>.</p>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/AndreFecury/AES-python"><img src="assets/aes.svg" width="100%" alt="Criptografia AES em Python" /></a></td>
-    <td width="50%"><a href="https://github.com/AndreFecury/BD_POO"><img src="assets/bdpoo.svg" width="100%" alt="Sistema com banco de dados em Python, PostgreSQL e Docker" /></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://andrefecury.github.io/#projetos">BookMind AI</a> <sub>em criação</sub></h3>
+      <a href="https://andrefecury.github.io/#projetos"><img src="assets/bookmind.svg" width="100%" alt="BookMind AI: app de leitura com inteligência artificial, em criação" /></a>
+      <p>App de leitura com inteligência artificial, a missão atual fora do estágio. <sub><img src="assets/ic-lock.svg" height="14" align="absmiddle" alt="" /> repositório privado</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Atividades da faculdade</h3>
+      <p>Exercícios e trabalhos de disciplinas (criptografia AES em Python, banco de dados e POO, questionário em C) ficam reunidos em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</p>
+    </td>
   </tr>
 </table>
-
-<sub><img src="assets/ic-lock.svg" height="16" align="absmiddle" alt="" /> AquAlerta e BookMind AI têm repositório privado; os cartões levam ao portfólio. As atividades da faculdade ficam em <a href="https://github.com/AndreFecury/faculdade-ciencia-da-computacao">faculdade-ciencia-da-computacao</a>.</sub>
 
 ## <img src="assets/ic-mapa.svg" height="32" align="absmiddle" alt="" /> Mapa da jornada
 
